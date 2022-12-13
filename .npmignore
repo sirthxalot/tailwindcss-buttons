@@ -1,0 +1,10 @@
+.github/
+node_modules/
+art/
+dist/
+screenshots/
+.editorconfig
+favicon.png
+index.html
+tailwind.config.js
+yarn.lock
